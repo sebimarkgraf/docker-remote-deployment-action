@@ -1,5 +1,5 @@
-name: Docker Remote Deployment
-description: A GitHub Action that supports docker-compose and Docker Swarm deployments
+name: Docker Compose v2 Remote Deployment
+description: A GitHub Action that supports docker compose and docker swarm deployments
 inputs:
   remote_docker_host:
     description: Remote Docker host ie (user@host).
